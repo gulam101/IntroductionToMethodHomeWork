@@ -1,0 +1,7 @@
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\bin\Debug\CalculatorHomework.exe.config
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\bin\Debug\CalculatorHomework.exe
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\bin\Debug\CalculatorHomework.pdb
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\obj\Debug\CalculatorHomework.csprojAssemblyReference.cache
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\obj\Debug\CalculatorHomework.csproj.CoreCompileInputs.cache
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\obj\Debug\CalculatorHomework.exe
+C:\Users\Public\Visual Studio Projects\Homework\CalculatorHomework\CalculatorHomework\obj\Debug\CalculatorHomework.pdb
